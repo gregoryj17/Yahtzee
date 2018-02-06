@@ -1,0 +1,1 @@
+This is a game of Yahtzee I'm working on in my free time for fun.
